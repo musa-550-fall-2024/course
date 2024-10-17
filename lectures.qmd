@@ -1,0 +1,55 @@
+---
+title: "Weekly Course Content"
+toc: false
+---
+
+
+The course will be broken up into 13 weeks of content,and each week will cover that week's unique topic. Each week will have a recommended set of readings that will help reinforce the content. As we progress through the semester, you will be able to access the weekly content on the sidebar of this page. For each week, you'll find  information about readings and topics, as well as links to the lecture slides.  
+
+## Lecture slides
+The lecture slides are Jupyter notebook files, a mix of executable Python 
+cells, text, and images. Students can access the slide materials using Jupyter notebooks.
+
+The Jupyter notebook files for each week are stored in a repository that is available on Github. On the content page for each week, you will see a link to this repository. Once you navigate to the repository on GitHub, you can download the contents of the repository to your computer and work locally with the notebook files on your laptop. To download the repository contents, look for the green "Code" button and select "Download ZIP".
+
+## Lecture topics
+
+- Aug 29/ [Week 1: Exploratory Data Science in Python](https://github.com/musa-550-fall-2024/week1)
+  
+- Sep 5/ [Week 2: Data Visualization Fundamentals](https://github.com/musa-550-fall-2024/week2); </span> <span style="color:green">[HW #1](https://github.com/musa-550-fall-2024/assignment1) assigned 
+ </span>  
+
+- Sep 12/ [Week 3:	Data visualization](https://github.com/musa-550-fall-2024/week2) (Week 2, con't). [More Interactive Data Viz](https://github.com/musa-550-fall-2024/week3). 
+
+- Sep 19/ Week 4: 
+  - Continue on [Interactive Data Viz](https://github.com/musa-550-fall-2024/week3)
+  - Introduction to Vector Data & GeoPandas; Geospatial Analysis & Mapping
+  - <span style="color:red">HW #1 due </span>
+
+
+- Sep 26 / Week 5: 
+  - Continue [Vector Data & GeoPandas](https://github.com/musa-550-fall-2024/week3); 
+  - Choropleth and hexagon maps; interactive maps with folium ([lecture 4](https://github.com/musa-550-fall-2024/week4)) 
+  - <span style="color:green"></span> <span style="color:green">[HW #2](https://github.com/musa-550-fall-2024/assignment2) assigned 
+
+- <span style="color:orange"> Oct 3/ no classes</span>
+
+- Oct 10/ Week 6:	
+  - [Open Street Map (OSM) and Network Analytics](https://github.com/musa-550-fall-2024/week5)
+  - <span style="color:red">HW #2 due </span>
+
+- Oct 17/ Week 7:	
+  - [Raster Analytics](https://github.com/musa-550-fall-2024/week6)
+  - <span style="color:green"></span> <span style="color:green">[HW #3](https://github.com/musa-550-fall-2024/assignment3) assigned  </span>
+
+- <span style="color:gray"> Weeks 8:	Web Scraping, APIs</span>
+
+- <span style="color:gray"> Week 9:	Analyzing and Visualizing Large Datasets;HW #3 due	</span>
+
+- <span style="color:gray"> Week 10:	From Notebooks to the Web</span>
+
+- <span style="color:gray"> Week 11:	Clustering Analytics in Python; HWK 4 due</span>
+	
+- <span style="color:gray"> Weeks 12:	Predictive Modeling with Scikit-Learn; HWK 5 due</span>
+
+- <span style="color:gray"> Week 13:	Work on final project, HWK 6 due</span>
