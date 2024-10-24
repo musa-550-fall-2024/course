@@ -1,2 +1,1 @@
-# course
-landing page
+

@@ -1,0 +1,34 @@
+---
+title: "MUSA 550: Geospatial Data Science"
+subtitle: "Use Python to gather, visualize, and analyze geospatial data with an urban planning and public policy focus"
+---
+
+## Welcome!
+
+This is our landing page for our Fall course **MUSA 550: Geospatial Data Science with Python**.
+
+On the left handside, you will find information about the syllabus, assignments, lectures and other important material. New material will be added every week. This course goes at a relatively fast pace. Don't fall behind.
+
+Many many thanks to **Nick Hand**! who developed this entire website and codes. 
+
+::: {.callout-important}
+**Seventh class**: Thursday October 17.
+- [API, Web Scraping, Text Analytics](https://github.com/musa-550-fall-2024/webScrapingAPI)
+:::
+
+
+::: {.callout-note}
+- **Seventh class**: Thursday October 17.  [Raster Analytics](https://github.com/musa-550-fall-2024/week6). [Assignment 3](https://github.com/musa-550-fall-2024/assignment3). shapely [shapely](https://github.com/musa-550-fall-2024/shapely)
+
+- **Sixth class**: Thursday October 10.  - Choropleth and hexagon maps - quick review ([lecture 4](https://github.com/musa-550-fall-2024/week4)). Interactive maps with folium - refresh ([lecture 4](https://github.com/musa-550-fall-2024/week4)). OSM data, network 
+modeling ([lecture 5](https://github.com/musa-550-fall-2024/week5))
+- **Fifth class**: Thursday Sep 26. python basics: text input & output [see additional exercises #3](https://github.com/musa-550-fall-2024/Additional-Exercises). Review visualization libraries. Geopandas ([lecture 3](https://github.com/musa-550-fall-2024/week3)). Choropleth and hexagon maps; interactive maps with folium ([lecture 4](https://github.com/musa-550-fall-2024/week4)).
+- **Fourth class**: Thursday Sep 19. More python basics on function definition. Visualization lecture (covering matplotlib, altair, seaborn, ...) and introduction to geospatial data ([lecture 3](https://github.com/musa-550-fall-2024/week3))
+- **Third class**: Thursday Sep 12. We continue discussing python basics (functions, loops, conditionals), and lecture 2 on visualization (covering matplotlib, altair, seaborn, ...). You will also have a bit of time to work on [Assignment-1](https://github.com/musa-550-fall-2024/assignment1) or ask questions related to that.
+- **Second class**: Thursday Sep 4. We continue on basics of python, and we start week 2 material (visualization). Assignment 1 will be assigned.
+:::
+
+::: {.callout-warning}
+## Python install
+Several students were having issues installing mamba (or conda) and then the class environment. You can follow the instructions here [Installation Setup Guide](/resources/install). Note that the **environment.yml** file can be found [here](https://github.com/musa-550-fall-2024/course-materials/blob/master/environment.yml). Download it to your computer, then install it following the instructions.
+:::

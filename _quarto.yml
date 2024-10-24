@@ -1,0 +1,64 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 3333
+
+website:
+  title: "MUSA 550"
+
+  page-footer:
+    right: "delmelle@gmail.com"
+    left: ""
+
+  sidebar:
+    logo: "images/course-icon.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://github.com/MUSA-550-Fall-2024/
+        text: "MUSA 550 GitHub"
+
+    style: "docked"
+    search: true
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: lectures.qmd
+        text: Lectures  
+      - section: "Resources"
+        contents:
+          - resource/install.qmd
+          - resource/common-issues.qmd 
+          - resource/file-paths.qmd
+          - resource/jupyter.qmd
+          - resource/mamba.qmd
+          - resource/python.qmd
+      - section: "Cheat Sheets"
+        contents:
+          - href: cheatsheets/python.pdf
+            text: "Python Basics"
+          - href: cheatsheets/pandas.pdf
+            text: "Pandas"
+          - href: cheatsheets/conda.pdf
+            text: "Condas"
+          - href: cheatsheets/matplotlib.pdf
+            text: "MatplotLib"
+          - href: cheatsheets/seaborn.pdf
+            text: "Seaborn"
+format:
+  html:
+    highlight-style: solarized
+    theme: cosmo
+    css: styles.css
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+
+
