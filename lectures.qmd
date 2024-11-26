@@ -1,0 +1,72 @@
+---
+title: "Weekly Course Content"
+toc: false
+---
+
+
+The course will be broken up into 13 weeks of content,and each week will cover that week's unique topic. Each week will have a recommended set of readings that will help reinforce the content. As we progress through the semester, you will be able to access the weekly content on the sidebar of this page. For each week, you'll find  information about readings and topics, as well as links to the lecture slides.  
+
+## Lecture slides
+The lecture slides are Jupyter notebook files, a mix of executable Python 
+cells, text, and images. Students can access the slide materials using Jupyter notebooks.
+
+The Jupyter notebook files for each week are stored in a repository that is available on Github. On the content page for each week, you will see a link to this repository. Once you navigate to the repository on GitHub, you can download the contents of the repository to your computer and work locally with the notebook files on your laptop. To download the repository contents, look for the green "Code" button and select "Download ZIP".
+
+## Lecture topics
+
+- Aug 29/ [Week 1: Exploratory Data Science in Python](https://github.com/musa-550-fall-2024/week1)
+  
+- Sep 5/ [Week 2: Data Visualization Fundamentals](https://github.com/musa-550-fall-2024/week2); </span> <span style="color:green">[HW #1](https://github.com/musa-550-fall-2024/assignment1) assigned 
+ </span>  
+
+- Sep 12/ [Week 3:	Data visualization](https://github.com/musa-550-fall-2024/week2) (Week 2, con't). [More Interactive Data Viz](https://github.com/musa-550-fall-2024/week3). 
+
+- Sep 19/ Week 4: 
+  - Continue on [Interactive Data Viz](https://github.com/musa-550-fall-2024/week3)
+  - Introduction to Vector Data & GeoPandas; Geospatial Analysis & Mapping
+  - <span style="color:red">HW #1 due </span>
+
+
+- Sep 26 / Week 5: 
+  - Continue [Vector Data & GeoPandas](https://github.com/musa-550-fall-2024/week3); 
+  - Choropleth and hexagon maps; interactive maps with folium ([lecture 4](https://github.com/musa-550-fall-2024/week4)) 
+  - <span style="color:green"></span> <span style="color:green">[HW #2](https://github.com/musa-550-fall-2024/assignment2) assigned 
+
+- <span style="color:orange"> Oct 3/ no classes</span>
+
+- Oct 10/ Week 6:	
+  - [Open Street Map (OSM) and Network Analytics](https://github.com/musa-550-fall-2024/week5)
+  - <span style="color:red">HW #2 due </span>
+
+- Oct 17/ Week 7:	
+  - [Raster Analytics](https://github.com/musa-550-fall-2024/week6)
+  - <span style="color:green"></span> <span style="color:green">[HW #3](https://github.com/musa-550-fall-2024/assignment3) assigned  </span>
+
+- Oct 24/ Week 8:	
+  - [Web Scraping, API](https://github.com/musa-550-fall-2024/webScrapingAPI)
+
+- Oct 31/ Week 9:	
+  - [API, Text Analytics](https://github.com/musa-550-fall-2024/webScrapingAPI)
+  - <span style="color:red">HW #3 due </span>
+  
+- Nov 7/ Week 10:	
+  - [Census API](https://github.com/musa-550-fall-2024/webScrapingAPI)
+  - [Visualizing Large Datasets](https://github.com/musa-550-fall-2024/visualizingLargeDatasets)
+  - <span style="color:green"></span> <span style="color:green">[HW #4](https://github.com/musa-550-fall-2024/assignment4) assigned  </span>
+
+- Nov 14/ Week 11:	
+  - [Visualizing Large Datasets](https://github.com/musa-550-fall-2024/visualizingLargeDatasets)
+  - [Clustering](https://github.com/musa-550-fall-2024/clustering)
+  
+- Nov 21/ Week 12:	
+  - [predictive modeling](https://github.com/musa-550-fall-2024/predictiveModeling)
+  - <span style="color:red">HW #4 due </span>
+  - <span style="color:green"></span> <span style="color:green">[HW #5](https://github.com/musa-550-fall-2024/assignment-5) assigned  </span>
+  - <span style="color:green"></span> <span style="color:green">[HW #6](https://github.com/musa-550-fall-2024/assignment-6) assigned  </span>
+  
+- Nov 26/ Week 13:	
+  - Webpages & interactive charts with [quarto](https://github.com/musa-550-fall-2024/quarto)
+  - Creating dashboards with [panel](https://github.com/musa-550-fall-2024/panel)
+
+
+- <span style="color:gray"> Week 14: More on dashboards & large raster analytics</span>
